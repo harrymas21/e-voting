@@ -19,4 +19,4 @@ This is a simple online voting system for a college or school. Was developed in 
 	-Import the sql file "database/e_voting.sql"
 	
 ## License
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+The project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
