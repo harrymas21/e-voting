@@ -1,12 +1,15 @@
-# e-voting
+<p align="center">## e-voting</p>
 
 This project is about a "Simple Online Voting System”.
 
 It makes use of PHP and MY SQL.
 
-Libraries used include:
-	1. Africa's Talking Bulky SMS API
-	2. FPDF for pdf generation
-	3. LIBCHART library for graph generation.
+## Libraries used include:
+	-Africa's Talking Bulky SMS API
+	-FPDF for pdf generation
+	-LIBCHART library for graph generation.
 
-To use the system install Wamp/xampp server, create a database "e_voting" and import the sql file "database/e_voting.sql"
+## To use the system install:
+	-Wamp/xampp server.
+	-Create a database "e_voting".
+	-Import the sql file "database/e_voting.sql"
