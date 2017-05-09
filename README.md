@@ -1,7 +1,9 @@
 # e-voting
 
 This project is about a "Simple Online Voting System”.
+
 It makes use of PHP and MY SQL.
+
 Libraries used include:
 	1. Africa's Talking Bulky SMS API
 	2. FPDF for pdf generation
