@@ -181,28 +181,28 @@ CREATE TABLE IF NOT EXISTS `students` (
 --
 
 INSERT INTO `students` (`id`, `name`, `username`, `fees_balance`, `discipline_cases`, `mobile_number`, `password`, `registration_year`, `course_duration`, `is_user`, `active`, `voted`, `role`, `sch`) VALUES
-(100, 'Erick Kibet', 'I/100', 1500, 3, '+254705222568', 'XXQfOGzU', 0, 0, 1, 0, 0, 1, 'ICT'),
-(101, 'Mark Chesire', 'I/101', 0, 0, '+254726179177', 'idPUyyoP', 2013, 4, 1, 0, 0, 1, 'ICT'),
-(103, 'Harry Masidza', 'I/103', 0, 0, '+254705222568', 'UZG4TJ', 0, 0, 1, 0, 0, 1, 'ICT'),
-(104, 'Alice Kimani', 'I/104', 0, 0, '', '', 0, 0, 0, 0, 0, 1, 'ICT'),
-(105, 'Joseph Kimani', 'I/105', 0, 0, '', '', 0, 0, 0, 0, 0, 1, 'ICT'),
+(100, 'Erick uio', 'I/100', 1500, 3, '+254705222568', 'XXQfOGzU', 0, 0, 1, 0, 0, 1, 'ICT'),
+(101, 'zah', 'I/101', 0, 0, '+254726179177', 'idPUyyoP', 2013, 4, 1, 0, 0, 1, 'ICT'),
+(103, 'xyz', 'I/103', 0, 0, '+254705222568', 'UZG4TJ', 0, 0, 1, 0, 0, 1, 'ICT'),
+(104, 'kjhkjh Kimani', 'I/104', 0, 0, '', '', 0, 0, 0, 0, 0, 1, 'ICT'),
+(105, 'kjhkh Kimani', 'I/105', 0, 0, '', '', 0, 0, 0, 0, 0, 1, 'ICT'),
 (106, 'Mary Nkube', 'I/106', 0, 0, '', 'kBiBSn', 0, 0, 1, 0, 0, 1, 'ICT'),
-(107, 'Caleb Mwangangi', 'I/107', 0, 0, '', '', 0, 0, 0, 0, 0, 1, 'ICT'),
+(107, ',jhjkh Mwangangi', 'I/107', 0, 0, '', '', 0, 0, 0, 0, 0, 1, 'ICT'),
 (108, 'Jame sw', 'I/108', 0, 0, '', 'zE67Fo', 0, 0, 1, 0, 0, 1, 'ICT'),
-(120, 'Erick Cheruiyot', 'I/120', 0, 0, '+254719453783', 'vhkpaE20', 0, 0, 1, 0, 0, 1, 'ICT'),
+(120, 'jgj yuiop', 'I/120', 0, 0, '+254719453783', 'vhkpaE20', 0, 0, 1, 0, 0, 1, 'ICT'),
 (125, 'Kip', 'i/125', 0, 0, '+254721267946', '16ufeb', 2013, 4, 1, 0, 1, 1, 'ICT'),
-(200, 'Ben James', 'B/200', 0, 0, '', '', 0, 0, 0, 0, 0, 1, 'Business'),
-(201, 'Ann Nyokabi', 'B/201', 0, 0, '', '', 0, 0, 0, 0, 1, 1, 'Business'),
-(202, 'Mike Mugo', 'B/202', 0, 0, '', '', 0, 0, 0, 0, 0, 1, 'Business'),
+(200, 'mjhg jhkh', 'B/200', 0, 0, '', '', 0, 0, 0, 0, 0, 1, 'Business'),
+(201, 'mjh oiuou', 'B/201', 0, 0, '', '', 0, 0, 0, 0, 1, 1, 'Business'),
+(202, 'Mikkjhkje Mugo', 'B/202', 0, 0, '', '', 0, 0, 0, 0, 0, 1, 'Business'),
 (203, 'Elly Bor', 'B/203', 0, 0, '', '', 0, 0, 0, 0, 1, 1, 'Business'),
 (204, 'Dan Mwangi', 'B/204', 0, 0, '', '', 0, 0, 0, 0, 0, 1, 'Business'),
 (205, 'Ken Kathenge', 'B/205', 8000, 0, '+254717655670', 'jL9qn8Bm', 0, 0, 1, 0, 1, 1, 'Business'),
-(210, 'Harry Mas', 'i/210', 0, 0, '', 'JA72AT', 2013, 4, 1, 0, 0, 1, 'ICT'),
-(215, 'Muthoni Nyaga', 'b/215', 100, 0, '+254719453783', '5NIwMq', 2013, 4, 1, 0, 0, 1, 'Business'),
-(221, 'Michael Bett', 'B/221', 0, 0, '+254719453783', 'Oi5mJ1IC', 2014, 4, 1, 0, 0, 1, 'Business'),
-(245, 'Harry Mas', 'i/245', 0, 0, '', '', 2013, 4, 0, 0, 0, 1, 'ICT'),
-(1234, 'Silas Wanga', 'admin', 0, 0, '', 'd033e22ae348aeb5660fc2140aec35850c4da997', 0, 0, 1, 0, 0, 0, 'N/a'),
-(30937961, 'kennedy', 'kennedy', 0, 0, '0717655670', 'jL9qn8Bm', 2013, 4, 0, 0, 0, 1, 'ICT');
+(210, 'uiok', 'i/210', 0, 0, '', 'JA72AT', 2013, 4, 1, 0, 0, 1, 'ICT'),
+(215, 'Muthkjkoni kkjh', 'b/215', 100, 0, '+254719453783', '5NIwMq', 2013, 4, 1, 0, 0, 1, 'Business'),
+(221, 'kjhkh hjhg', 'B/221', 0, 0, '+254719453783', 'Oi5mJ1IC', 2014, 4, 1, 0, 0, 1, 'Business'),
+(245, 'uiok', 'i/245', 0, 0, '', '', 2013, 4, 0, 0, 0, 1, 'ICT'),
+(1234, 'yutyu Wanga', 'admin', 0, 0, '', 'd033e22ae348aeb5660fc2140aec35850c4da997', 0, 0, 1, 0, 0, 0, 'N/a'),
+(30937961, 'kennytrytedy', 'iuyiy', 0, 0, '0717655670', 'jL9qn8Bm', 2013, 4, 0, 0, 0, 1, 'ICT');
 
 -- --------------------------------------------------------
 
